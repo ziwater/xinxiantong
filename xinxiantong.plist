@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.9.100.241/xinxiantong.ipa</string>
+					<string>http://106.39.114.169/xinxiantong.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://10.9.100.241/Icon@2x.png</string>
+					<string>http://106.39.114.169/Icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://10.9.100.241/Icon.png</string>
+					<string>http://106.39.114.169/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
