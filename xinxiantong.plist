@@ -13,17 +13,33 @@
 					<key>url</key>
 					<string>https://10.9.100.241/xinxiantong.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://10.9.100.241/Icon@2x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://10.9.100.241/Icon.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.isoftstone.xinxiantong.fixios8</string>
+				<string>com.isoftstone.xinxiantong</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>新县通.ipa</string>
+				<string>新县通</string>
 			</dict>
 		</dict>
 	</array>
