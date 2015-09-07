@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://106.39.114.169/Icon@2x.png</string>
+					<string>http://106.39.114.169/jianminedong/statics/Icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://106.39.114.169/Icon.png</string>
+					<string>http://106.39.114.169/jianminedong/statics/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
